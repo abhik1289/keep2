@@ -1,0 +1,8 @@
+.custom-cursor{
+    /* cursor: url(`${process.env.PUBLIC_URL+ima}`), auto; */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+}
